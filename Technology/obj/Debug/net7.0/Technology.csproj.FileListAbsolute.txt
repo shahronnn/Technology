@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\Technology\Technology\bin\Debug\net7.0\Technology.exe
+C:\Users\User\Desktop\C# course\Technology\Technology\bin\Debug\net7.0\Technology.deps.json
+C:\Users\User\Desktop\C# course\Technology\Technology\bin\Debug\net7.0\Technology.runtimeconfig.json
+C:\Users\User\Desktop\C# course\Technology\Technology\bin\Debug\net7.0\Technology.dll
+C:\Users\User\Desktop\C# course\Technology\Technology\bin\Debug\net7.0\Technology.pdb
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.dll
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\refint\Technology.dll
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.pdb
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\Technology.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\Technology\Technology\obj\Debug\net7.0\ref\Technology.dll
